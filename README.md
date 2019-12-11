@@ -1,1 +1,3 @@
-# Electricity-dataset-2019
+# Consistent Energy Debt: America’s Unequal Power Grid
+### Project by Emma Delehanty, Mukila Rajasekar, John Tomaselli
+We are conducting an exploration of the United States’ electric grid in order to determine areas that would most benefit from additional power generation sources. Our intermediate goal is to determine which balancing authorities, who manage power transportation, and power regions, which in turn manage balancing authorities, import electricity on a periodic basis. Other goals include studying how energy production and demand fluctuate as well as which energy production sources support different balancing authorities.
